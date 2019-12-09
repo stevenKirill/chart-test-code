@@ -1,0 +1,7 @@
+.table {
+    width: 100%;
+    border: 1px solid black;
+}
+.table__row th {
+    text-align: center;
+}

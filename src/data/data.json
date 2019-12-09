@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Steven",
+        "city": "Tokyo",
+        "birthDate": "15.05.1995",
+        "job": "Front-end"
+    },
+    {
+        "name": "Brett",
+        "city": "Toronto",
+        "birthDate": "21.10.1985",
+        "job": "Fighter"
+    },
+    {
+        "name": "Neb",
+        "city": "London",
+        "birthDate": "28.02.1996",
+        "job": "Businessman"
+    },
+    {
+        "name": "Oleg",
+        "city": "Tomsk",
+        "birthDate": "03.03.1997",
+        "job": "Lawer"
+    },
+    {
+        "name": "Tina",
+        "city": "Tokyo",
+        "birthDate": "26.10.1993",
+        "job": "Data sciense"
+    }
+]
